@@ -1,3 +1,3 @@
 # Configuration for the application
-API_KEY = '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'
+API_KEY = 'YOUR_GROQ_API_KEY'
 MODEL_ID = 'llama-3.3-70b-versatile'
