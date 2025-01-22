@@ -65,3 +65,5 @@ salesagent/
 ## Documentation
 
 Further documentation on system architecture, use cases, and a detailed guide for contributors can be found in the project documentation.
+
+https://docs.google.com/document/d/13fIoSCmLm9NPbwdGV3YJEpeJRlbL7ZTseFey4wzVOdU/edit?usp=sharing
