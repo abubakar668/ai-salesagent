@@ -25,8 +25,8 @@ salesagent/
 |-- utils.py       # Contains utility functions like prompt generation
 |-- config.py      # Configuration details like API keys
 |-- requirements.txt # Dependencies for the project
-|-- Procfile       # For Heroku deployment
-|-- setup.sh       # Setup script for Streamlit on Heroku
+|-- Procfile       # For Heroku deployment (Not added yet)
+|-- setup.sh       # Setup script for Streamlit on Heroku (Not added yet)
 |-- README.md      # This file
 ```
 
@@ -47,10 +47,10 @@ salesagent/
 
 3. **Environment Variables:**
 
-   Set the necessary environment variables for your deployment:
+   Set the necessary environment variables in `utils.py`:
 
    ```
-   export GROQ_API_KEY='your_api_key_here'
+   API_KEY = 'YOUR_GROQ_API_KEY'
    ```
 
    For Groq API key, Refer to this documentation: https://console.groq.com/docs/overview
